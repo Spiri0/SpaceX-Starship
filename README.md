@@ -11,3 +11,4 @@ Instead of complex modeling, I just need to adjust the relevant parameters and t
 <img src="https://github.com/user-attachments/assets/1c6a5d2b-b6f2-451d-865f-d5f836748074" alt="ship_1" width="500"/>
 <img src="https://github.com/user-attachments/assets/bf4abad1-b5f3-4225-a89d-05fe01064ad1" alt="ship_2" width="500"/>
 <img src="https://github.com/user-attachments/assets/42f55388-d4b0-44a5-8060-0776323099c6" alt="ship" width="500"/>
+<img src="https://github.com/user-attachments/assets/fdb4be9a-18e2-46e4-acef-3adf651317f4" alt="ship" width="500"/>
