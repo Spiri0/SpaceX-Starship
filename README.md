@@ -7,3 +7,6 @@ modeling by hand would be far too time-consuming and would never produce such go
 The enormous advantage with software-generated geometry is the easy adjustment when changes occur. 
 Instead of complex modeling, I just need to adjust the relevant parameters and the geometry can be regenerated.
 
+![ship_1](https://github.com/user-attachments/assets/1c6a5d2b-b6f2-451d-865f-d5f836748074)
+![ship_2](https://github.com/user-attachments/assets/bf4abad1-b5f3-4225-a89d-05fe01064ad1)
+
