@@ -17,5 +17,5 @@ Since the starship's steel hull is very detailed with its many welding points, I
 This is much better than doing it all by hand in gimp. Because of the level of detail, very high-resolution textures would be needed, e.g. 32k. 
 With my virtual texture system it wouldn't be a problem to stream it online in seconds without the devices themselves needing large power reserves for the large textures.
 
-But at the moment this is still a thing of the future. To be honest, I don't want to open source my virtual texture system and my virtual gs geometry system just yet, 
+But at the moment this is still a thing of the future. To be honest, I don't want to open source my virtual texture system and my virtual geometry system just yet, 
 as I have had very negative experiences in the German car industry. There is only taking but never support.
