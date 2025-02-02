@@ -12,3 +12,10 @@ Instead of complex modeling, I just need to adjust the relevant parameters and t
 <img src="https://github.com/user-attachments/assets/bf4abad1-b5f3-4225-a89d-05fe01064ad1" alt="ship_2" width="400"/>
 <img src="https://github.com/user-attachments/assets/42f55388-d4b0-44a5-8060-0776323099c6" alt="ship" width="400"/>
 <img src="https://github.com/user-attachments/assets/fdb4be9a-18e2-46e4-acef-3adf651317f4" alt="ship" width="400"/>
+
+Since the starship's steel hull is very detailed with its many welding points, I had the idea of ​​programming the texture as well. 
+This is much better than doing it all by hand in gimp. Because of the level of detail, very high-resolution textures would be needed, e.g. 32k. 
+With my virtual texture system it wouldn't be a problem to stream it online in seconds without the devices themselves needing large power reserves for the large textures.
+
+But at the moment this is still a thing of the future. To be honest, I don't want to open source my virtual texture system and my virtual gs geometry system just yet, 
+as I have had very negative experiences in the German car industry. There is only taking but never support.
