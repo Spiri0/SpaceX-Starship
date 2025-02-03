@@ -19,3 +19,10 @@ With my virtual texture system it wouldn't be a problem to stream it online in s
 
 But at the moment this is still a thing of the future. To be honest, I don't want to open source my virtual texture system and my virtual geometry system just yet, 
 as I have had very negative experiences in the German car industry. There is only taking but never support.
+
+P.S. I now have a newer version with continuous tiles on the fuselage. However, this is 2 mb too big for github. I will probably offer it as a download on my website.
+
+<img src="https://github.com/user-attachments/assets/8cd527ab-daa5-4223-b1ea-31615981cc40)" alt="ship" width="400"/>
+<img src="https://github.com/user-attachments/assets/3db73ef0-195d-42ea-9ab7-ad448a9e9952)" alt="ship" width="400"/>
+
+
