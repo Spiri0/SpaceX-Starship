@@ -25,5 +25,5 @@ P.S. I now have a newer version with continuous tiles on the fuselage. However, 
 
 
 
-![ship3](https://github.com/user-attachments/assets/b9fe1fe3-d32e-401f-addf-9c9d4e620bad)
-![ship4](https://github.com/user-attachments/assets/99223403-5d83-497f-8560-513239f0e30e)
+<img src="https://github.com/user-attachments/assets/b9fe1fe3-d32e-401f-addf-9c9d4e620bad" alt="ship" width="400"/>
+<img src="https://github.com/user-attachments/assets/99223403-5d83-497f-8560-513239f0e30e" alt="ship" width="400"/>
